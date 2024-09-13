@@ -8,5 +8,5 @@ This project uses a dataset called Canada Immigration. The dataset has informati
    
  + **SQL**
 #### Database and Tools:
-. SQL Server Management Studio (SSMS) 
-. Visual Studio Code - Jupyter Notebooks 
+ + **SQL Server Management Studio (SSMS)** 
+ + **Visual Studio Code - Jupyter Notebooks** 
