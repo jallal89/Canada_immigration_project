@@ -19,4 +19,4 @@ This project uses a real world dataset called Canada Immigration Data. The datas
 - Graphs such as stacked plots, histograms and bar charts show how data can be better understood with visuals
 - From Europe, most of immigrants come from places like Poland and Ukraine in recent years
 - Conflicts, economic status, better education opportunies play massive role in immigration
-- Visuals and data show Canada is likely to receive more immigrants in years to come, especially from places of conflicts
+- Data shows Canada is likely to receive more immigrants in years to come, especially from places of conflicts
