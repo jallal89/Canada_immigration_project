@@ -9,3 +9,14 @@ This project uses a real world dataset called Canada Immigration Data. The datas
 ## Database and Tools Used:
 - SQL Server Management Studio (SSMS)
 - Visual Studio Code - Jupyter Notebooks
+## Project Key Findings and Analysis:
+- Canada appears to be among favorite destinations among immigrants, possible reasons include economy
+- Countries like Afghanistan and India are where most of these immigrants come from
+- From 1980s to 2013, there is an increasing trend of immigrants moving to Canada
+- Most of immigrants come from Asia, Africa and many from Europe as well comparing to other continents
+- Data shows that most of regions where these immigrants come from are developing areas
+- 2012 was one of the most productive for numbers of immigrants, China 33024 immigrants, India 30933
+- Graphs such as stacked plots, histograms and bar charts show how data can be better understood with visuals
+- From Europe, most of immigrants come from places like Poland and Ukraine in recent years
+- Conflicts, economic status, better education opportunies play massive role in immigration
+- 
